@@ -5,7 +5,7 @@ A personal portfolio website showcasing my background, work experience, projects
 
 ## 🔗 Live Site
 
-[View the live portfolio](index.html) <!-- Replace # with your GitHub Pages link, e.g. https://yourusername.github.io/portfolio/ -->
+[View the live portfolio](index(2).html) <!-- Replace # with your GitHub Pages link, e.g. https://yourusername.github.io/portfolio/ -->
 
 ## 📄 About
 
