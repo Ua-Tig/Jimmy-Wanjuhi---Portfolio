@@ -5,7 +5,7 @@ A personal portfolio website showcasing my background, work experience, projects
 
 ## 🔗 Live Site
 
-[View the live portfolio](#) <!-- Replace # with your GitHub Pages link, e.g. https://yourusername.github.io/portfolio/ -->
+[View the live portfolio](https://ua-tig.github.io/Jimmy-Wanjuhi---Portfolio/) <!-- Replace # with your GitHub Pages link, e.g. https://yourusername.github.io/portfolio/ -->
 
 ## 📄 About
 
